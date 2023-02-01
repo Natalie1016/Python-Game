@@ -1,3 +1,3 @@
 print("new game")
 
-print('a')
+print('abcde')
